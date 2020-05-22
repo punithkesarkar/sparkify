@@ -1,5 +1,7 @@
 # Sparkify
 
+# Blog Post
+https://medium.com/@punith.kesarkar/sparkify-analysis-d421cd6ffa80?sk=a39df9effef133ad3a9cc09440652b33
 
 # Libraries Used:
 - PySpark
